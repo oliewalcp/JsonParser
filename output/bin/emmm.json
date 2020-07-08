@@ -1,0 +1,11 @@
+{
+    "hahaha":null,
+    "arg1":false,
+    "arg2":5.036,
+    "child":{
+        "null":null
+    },
+    "num_list?":[
+        10,null,true
+    ]
+}

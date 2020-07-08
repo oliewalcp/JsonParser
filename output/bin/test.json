@@ -1,0 +1,15 @@
+{
+    "arg1": 1000.0001,
+    "arg2": 
+    [
+        1, 2, 100.06,
+        {
+            "child1-node": "haha",
+            "wtf": "wait for me"
+        }
+    ],
+    "???": {
+        "child2_node": ["yohohooh", "ahahhahaa"],
+        "child3_node": "emmmm"
+    }
+}
